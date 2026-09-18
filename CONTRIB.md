@@ -207,3 +207,4 @@ Please add your package at the end of the table:
 | file_system_access | https://pub.dev/packages/file_system_access | https://fluttergems.dev/file-folder-path-util/ |
 | cross_tab | https://pub.dev/packages/cross_tab | https://fluttergems.dev/web/ |
 | woo_client | https://pub.dev/packages/woo_client | https://fluttergems.dev/payment-api-sdk/ |
+| document_pip | https://pub.dev/packages/document_pip | https://fluttergems.dev/web/ |
